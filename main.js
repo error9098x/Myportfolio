@@ -32,7 +32,7 @@ $(document).ready(function(){
     document.body.className = "night";
   else
     // Else use ‘day’ theme
-    document.body.className = "";
+    document.body.className = "night";
 });
 
 $(window).load(function() {
